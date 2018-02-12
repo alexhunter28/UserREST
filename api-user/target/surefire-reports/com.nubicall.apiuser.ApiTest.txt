@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nubicall.apiuser.ApiTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.491 sec - in com.nubicall.apiuser.ApiTest
